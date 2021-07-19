@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyFirstConsoleApp/1.0.0": {
+        "dependencies": {
+          "MyFirstClassLib": "1.0.0"
+        },
+        "runtime": {
+          "MyFirstConsoleApp.dll": {}
+        }
+      },
+      "MyFirstClassLib/1.0.0": {
+        "runtime": {
+          "MyFirstClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFirstConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyFirstClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\bin\Debug\net5.0\MyFirstClassLib.deps.json
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\bin\Debug\net5.0\MyFirstClassLib.dll
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\bin\Debug\net5.0\ref\MyFirstClassLib.dll
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\bin\Debug\net5.0\MyFirstClassLib.pdb
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\obj\Debug\net5.0\MyFirstClassLib.csproj.AssemblyReference.cache
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\obj\Debug\net5.0\MyFirstClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\obj\Debug\net5.0\MyFirstClassLib.AssemblyInfoInputs.cache
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\obj\Debug\net5.0\MyFirstClassLib.AssemblyInfo.cs
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\obj\Debug\net5.0\MyFirstClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\obj\Debug\net5.0\MyFirstClassLib.dll
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\obj\Debug\net5.0\ref\MyFirstClassLib.dll
+C:\Users\Comfort\Desktop\womentechsters\VSCodeIntro\MyFirstClassLib\obj\Debug\net5.0\MyFirstClassLib.pdb
